@@ -1,7 +1,7 @@
 🥿 SHOE COMPANY - React SPA
 This is a Single Page Application (SPA) built using React JS, designed for a fictional Shoe Company. The website features a clean, responsive design optimized for multiple devices, including desktops, tablets, and mobile phones.
 
-LIVE DEMO :
+LIVE DEMO : https://shoecompanywebproject-react.netlify.app/
 
 📂 Project Structure
 
